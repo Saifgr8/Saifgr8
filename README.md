@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammad Saifuddin</h1>
 <h3 align="center">A passionate full stack developer</h3>
-<img alt="noImg"  align="right" width="400px" src="./Ghub.webp">
+<img alt="noImg"  align="right" width="400px" src="/GHUBSC.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saifgr8&label=Profile%20views&color=0e75b6&style=flat" alt="saifgr8" /> </p>
 
